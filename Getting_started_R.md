@@ -1,3 +1,5 @@
+# Getting started with R and RStudio assignment
+
 Here is my challenge question graph for the getting started with R and RStudio section. My modifications include increasing the
 size of the graph, number of symbols, and their size. I also pathed through 7 dwellings instead of 3.
 
