@@ -1,11 +1,11 @@
-## Projecting, Plotting and Labelling Administrative Subdivisions
+# Projecting, Plotting and Labelling Administrative Subdivisions
 
 Below is my final output for the Liberia map that includes administrative subdivisions down to the second level. I changed the colors around because bright green was slightly more
 joyful.
 
 [Liberia](https://user-images.githubusercontent.com/67921793/91249877-b5e96700-e725-11ea-8140-616cb536e978.png)
 
-# Challenge question 1 and team challenge question
+## Challenge question 1 and team challenge question
 My next set of images is from the team challenge question. I first used data on the country eSwatini (formerly known as Swaziland), but I found trouble when the HDX database 
 had only one file for the administrative subdivisions that was a .rar file. I could not figure out how to work with it, so I switched to another country: Madagascar.
 
@@ -23,13 +23,13 @@ Coordination of Humanitarian Affairs. This was also the case for XDH, but this d
 (National Disaster Management Agency).
 
 
-# Challenge question 2
+## Challenge question 2
 Below is my image output for challenge question 2. 
 
 [Montserrado county](https://user-images.githubusercontent.com/67921793/91250471-1d53e680-e727-11ea-87f2-845caa8f5e20.png)
 
 
-# Challenge question 3
+## Challenge question 3
 Below is my image output for challenge question 3. As you can clearly see, it is not correct. I was able to move the boundary boxes to the correct positions and get madagascar loaded,
 but I could not make the labels for the boxes plot only to the x,y coordinates instead of every county labeled. I also did not focus on Detail A and B graphs because I wanted to 
 fix one thing at a time.
