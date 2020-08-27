@@ -4,5 +4,5 @@
 
 [Projecting, Plotting and Labelling Administrative Subdivision](https://luked77.github.io/Agent_based_modeling_DATA440/projecting_plotting_labelling)
 
-[Raster](https://luked77.github.io/Agent_based_modeling_DATA440/rasters.md)
+[Raster](https://luked77.github.io/Agent_based_modeling_DATA440/rasters)
 
