@@ -24,6 +24,6 @@ In the stretch goal, we overlayed adm 1 to the previous plot to display those di
 
 ## Stretch Goal 3
 In this stretch goal, we created a 3D model of our raster.
-![3D model of full raster stack for adm1 and adm2]()
+![3D model of full raster stack for adm1 and adm2](https://github.com/LukeD77/Agent_based_modeling_DATA440/blob/master/3D_plot_gambia_raster.stl)
 
 
