@@ -23,7 +23,10 @@ In the stretch goal, we overlayed adm 1 to the previous plot to display those di
 ![Full raster stack for adm1 and adm2](https://user-images.githubusercontent.com/67921793/91456836-bb43d000-e851-11ea-8d65-ed8e9416f803.png)
 
 ## Stretch Goal 3
-In this stretch goal, we created a 3D model of our raster.
-![3D model of full raster stack for adm1 and adm2](https://github.com/LukeD77/Agent_based_modeling_DATA440/blob/master/3D_plot_gambia_raster.stl)
+In this stretch goal, we created a 3D model of our raster. I could not figure out how to convert the model to an .stl file
+from the object file as the save_3d model function was not working. I have attached images of different viewing angles below.
+![3D model of full raster stack for adm1 and adm2 view 1](https://user-images.githubusercontent.com/67921793/91476423-f7cff580-e86a-11ea-8a8c-7da373546353.png)
 
+![3D model of full raster stack for adm1 and adm2 view 2](https://user-images.githubusercontent.com/67921793/91476638-41204500-e86b-11ea-9f63-7e99c46f56ff.png)
 
+![3D model of full raster stack for adm1 and adm2 view 3](https://user-images.githubusercontent.com/67921793/91476707-5a28f600-e86b-11ea-88b7-fa3c3282cf54.png)
