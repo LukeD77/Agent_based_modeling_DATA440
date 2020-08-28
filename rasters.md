@@ -31,8 +31,7 @@ In this stretch goal, we created a 3D model of our raster.
 <video src="3D_plot_chall3.mp4" width="320" height="200" controls preload></video>
 
 
-I could not figure out how to convert the model to an .stl file
-from the object file as the save_3d model function was not working. I have attached images of different viewing angles below.
+I could not figure out how to embed the video file into the github pages, so I have attached images of different viewing angles below.
 ![3D model of full raster stack for adm1 and adm2 view 1](https://user-images.githubusercontent.com/67921793/91476423-f7cff580-e86a-11ea-8a8c-7da373546353.png)
 
 ![3D model of full raster stack for adm1 and adm2 view 2](https://user-images.githubusercontent.com/67921793/91476638-41204500-e86b-11ea-9f63-7e99c46f56ff.png)
