@@ -27,6 +27,7 @@ In this stretch goal, we created a 3D model of our raster.
 
 ![3D model of Gambia population distribution on a log scale](3D_plot_chall3.mp4)
 
+
 <video src="3D_plot_chall3.mp4" width="320" height="200" controls preload></video>
 
 
