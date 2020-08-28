@@ -25,6 +25,7 @@ In the stretch goal, we overlayed adm 1 to the previous plot to display those di
 ## Stretch Goal 3
 In this stretch goal, we created a 3D model of our raster. 
 
+![3D model of Gambia population distribution on a log scale](3D_plot_chall3.mp4)
 
 
 
