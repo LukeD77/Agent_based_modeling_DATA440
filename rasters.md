@@ -25,10 +25,7 @@ In the stretch goal, we overlayed adm 1 to the previous plot to display those di
 ## Stretch Goal 3
 In this stretch goal, we created a 3D model of our raster. 
 
-![3D model of Gambia population distribution on a log scale](3D_plot_chall3.mp4)
-
-
-<video src="3D_plot_chall3.mp4" width="320" height="200" controls preload></video>
+![3D model of population distribution for Gambia](https://user-images.githubusercontent.com/67921793/91600569-2961c300-e936-11ea-9a30-64a19f12ca00.gif)
 
 
 I could not figure out how to embed the video file into the github pages, so I have attached images of different viewing angles below.
