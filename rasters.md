@@ -28,7 +28,8 @@ In this stretch goal, we created a 3D model of our raster.
 ![3D model of population distribution for Gambia](https://user-images.githubusercontent.com/67921793/91600569-2961c300-e936-11ea-9a30-64a19f12ca00.gif)
 
 
-I could not figure out how to embed the video file into the github pages, so I have attached images of different viewing angles below.
+I have attached images of different viewing angles below.
+
 ![3D model of full raster stack for adm1 and adm2 view 1](https://user-images.githubusercontent.com/67921793/91476423-f7cff580-e86a-11ea-8a8c-7da373546353.png)
 
 ![3D model of full raster stack for adm1 and adm2 view 2](https://user-images.githubusercontent.com/67921793/91476638-41204500-e86b-11ea-9f63-7e99c46f56ff.png)
