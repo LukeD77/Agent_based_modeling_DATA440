@@ -22,4 +22,4 @@ geographical location in the raster.
 
 geom_text_repel(data=gambia_adm2, aes(label=NAME_2), color = 'red', size = 2.5)
 
-![Gambia ADM2]()
+![Gambia ADM2](https://user-images.githubusercontent.com/67921793/91794982-6655e000-ebea-11ea-9c50-dfd12b19057c.png)
