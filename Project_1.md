@@ -12,3 +12,14 @@ I created the barplot by plotting the county names and populations, but added ex
 total populations by taking the percent of the pop value divided by the total pop value.
 Not many modifications were made from the provided code except the addition of figure titles using ggtitle and slight
 adjustments to the label locations. 
+
+
+## Stretch goal 1
+Below is my output for stretch goal 1. I created a bar plot that has sub groups in each column based upon the second layer of
+administrative boundaries. I also included a spatial plot of Gambia, which is crowded by labels. I tried to resolve the issue
+using this line of code, but I would have the labels all randomly dispersed along coordinates and not specific to the correct
+geographical location in the raster.
+
+geom_text_repel(data=gambia_adm2, aes(label=NAME_2), color = 'red', size = 2.5)
+
+![Gambia ADM2](https://user-images.githubusercontent.com/67921793/91794811-fa737780-ebe9-11ea-9965-014ce72a34b9.png)
