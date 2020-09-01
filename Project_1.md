@@ -23,3 +23,9 @@ geographical location in the raster.
 geom_text_repel(data=gambia_adm2, aes(label=NAME_2), color = 'red', size = 2.5)
 
 ![Gambia ADM2](https://user-images.githubusercontent.com/67921793/91794982-6655e000-ebea-11ea-9c50-dfd12b19057c.png)
+
+## Stratch goal 2
+Below is my output for stretch goal 2, which is a mp4 of a 3D model of the population density of Gambia split among its second
+level of administrative districts.
+
+![Gambia pop density with adm2]()
