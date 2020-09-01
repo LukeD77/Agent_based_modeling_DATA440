@@ -28,4 +28,4 @@ geom_text_repel(data=gambia_adm2, aes(label=NAME_2), color = 'red', size = 2.5)
 Below is my output for stretch goal 2, which is a mp4 of a 3D model of the population density of Gambia split among its second
 level of administrative districts.
 
-![Gambia pop density with adm2]()
+![Gambia pop density with adm2](https://user-images.githubusercontent.com/67921793/91795590-08c29300-ebec-11ea-94fd-22410ee9d84c.gif)
