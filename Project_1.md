@@ -1,4 +1,5 @@
 # Project 1
+## Part 1
 ## Deliverable 1
 Below is my deliverable 1, which consists of a spatial plot of Gambia depicting a population heatmap and labels of population
 density underneath county names. It also shows a barplot of the populations of all the counties in Ghambia, sorted highest
@@ -28,4 +29,81 @@ geom_text_repel(data=gambia_adm2, aes(label=NAME_2), color = 'red', size = 2.5)
 Below is my output for stretch goal 2, which is a mp4 of a 3D model of the population density of Gambia split among its second
 level of administrative districts.
 
-![Gambia pop density with adm2](https://user-images.githubusercontent.com/67921793/91795590-08c29300-ebec-11ea-94fd-22410ee9d84c.gif)
+![Gambia Population Density with adm2](https://user-images.githubusercontent.com/67921793/91795590-08c29300-ebec-11ea-94fd-22410ee9d84c.gif)
+
+
+## De Facto Description of Urban Areas
+In this lesson we mapped boundaries by population densities in our selected areas of our country. I decided to use Foni Brefet,
+Gambia at first because it was scarecely populated and therefore easy to compute the boundaries. Below is the point pattern for 
+Foni Brefet.
+
+![Foni Brefet ppp Object](https://user-images.githubusercontent.com/67921793/93034138-0ce8aa80-f607-11ea-996d-c4950c75335f.png)
+
+The highest populations appear as a band across the center of the district. This pattern is also evident in the density image
+below.
+
+![Foni Brefet Density Image](https://user-images.githubusercontent.com/67921793/93034219-5d600800-f607-11ea-8a95-4f1fa8b14bf9.png)
+
+The contour lines denote thresholds for population densities, with brighter colors within representing higher densities. There are also smaller setllements dispersed through the disctrict, but in congruince with the ppp object the highest population densities are found in a band across the center.
+
+At this point I started to run into issues with the mapping of the final deliverable with distinguished urban areas and population desities. I decided to switch to a different district and restart the process in order to get around my problems. I selected the district Kombo South and produced the following graphs.
+
+
+
+![Kombo South Urbanized Areas with Population Densities](https://user-images.githubusercontent.com/67921793/93034473-22aa9f80-f608-11ea-8914-4a03f7718c0c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
