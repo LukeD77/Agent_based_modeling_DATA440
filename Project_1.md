@@ -59,7 +59,7 @@ This last figure depicts the urban centers of Kombo South and Kombo Central in g
 ## Project 1 pt 2 - Roads and Health Centers
 This part of the project consisted of graphing the primary and secondary roads of the selected districts as well as the different health cetners. Below is my final output.
 
-![Kombo South & Kombo Central Urban Overlay with Roads and Health Centers](https://user-images.githubusercontent.com/67921793/93039934-d0bd4600-f616-11ea-8fc7-931632c75fb5.png)
+![Kombo South & Kombo Central Urban Overlay with Roads and Health Centers](https://user-images.githubusercontent.com/67921793/93040192-622cb800-f617-11ea-9ad3-276baf94eeae.png)
 
 The primary roads are marked in red and the secondary roads are marked in pink. The primary roads lead into the populous of Kombo Central, while the secondary roads are used for traversing through the populated areas of Kombo South. I decided to make the points denoting health centers descriptive of their type. H stands for hospital, C stands for clinic, and O stands for other. The health centers are quite dispersed, but are located in densly populated areas and alongside roads. 
 
