@@ -46,11 +46,13 @@ below.
 
 The contour lines denote thresholds for population densities, with brighter colors within representing higher densities. There are also smaller setllements dispersed through the disctrict, but in congruince with the ppp object the highest population densities are found in a band across the center.
 
-At this point I started to run into issues with the mapping of the final deliverable with distinguished urban areas and population desities. I decided to switch to a different district and restart the process in order to get around my problems. I selected the district Kombo South and produced the following graphs.
+At this point I started to run into issues with the mapping of the final deliverable with distinguished urban areas and population desities. I decided to switch to a different district and restart the process in order to get around my problems. I selected the district Kombo South and then after testing in later parts of the project (identifying roads and health centers), I decided to also add Kombo Central. Below are my graphs for the two districts.
 
+![Kombo South & Kombo Central Raster](https://user-images.githubusercontent.com/67921793/93034794-44585680-f609-11ea-88af-823eb0c03fab.png)
 
+![Kombo South & Kombo Central Density Image](https://user-images.githubusercontent.com/67921793/93034843-7073d780-f609-11ea-8757-c5b5690c5fa0.png)
 
-![Kombo South Urbanized Areas with Population Densities](https://user-images.githubusercontent.com/67921793/93034473-22aa9f80-f608-11ea-8914-4a03f7718c0c.png)
+![Kombo South & Kombo Central Urbanized Areas with Population Densities]((https://user-images.githubusercontent.com/67921793/93034954-b6c93680-f609-11ea-8777-15d604918534.png)
 
 
 
