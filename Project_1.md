@@ -52,7 +52,7 @@ At this point I started to run into issues with the mapping of the final deliver
 
 ![Kombo South & Kombo Central Density Image](https://user-images.githubusercontent.com/67921793/93034843-7073d780-f609-11ea-8757-c5b5690c5fa0.png)
 
-![Kombo South & Kombo Central Urbanized Areas with Population Densities]((https://user-images.githubusercontent.com/67921793/93034954-b6c93680-f609-11ea-8777-15d604918534.png)
+![Kombo South & Kombo Central Urbanized Areas with Population Densities](https://user-images.githubusercontent.com/67921793/93034954-b6c93680-f609-11ea-8777-15d604918534.png)
 
 
 
