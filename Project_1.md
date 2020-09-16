@@ -65,7 +65,7 @@ The primary roads are marked in red and the secondary roads are marked in pink. 
 
 
 ## Project 1 pt 3 - Topography
-Below is my deliverable for the topographic map of Gambia with an overlay of the urban boundaries produced in part 1 of the prooject. Unfortunately, the country is quite small and the districts are even smaller, so the urban boundaries are hard to see in the top right corner of the image. Also, the Gambia River flows through the center of Gambia, but the water did not render. The length of the river is still discernable within the topography, but the blue would have been nice to see.
+Below is my deliverable for the topographic map of Gambia with an overlay of the urban boundaries produced in part 1 of the project. Unfortunately, the country is quite small and the districts are even smaller, so the urban boundaries are hard to see in the top right corner of the image. Also, the Gambia River flows through the center of Gambia, but the water did not render. The length of the river is still discernable within the topography, but the blue would have been nice to see.
 
 ![Gambia Topography](https://user-images.githubusercontent.com/67921793/93041328-3e1ea600-f61a-11ea-9040-cc36089bfe9c.png)
 
