@@ -6,14 +6,9 @@ Counting penguin populations can be dangerous work. Before, colonies were docume
 
 Remote satellite sensing is conducted by satellites placed in various orbits around the earth with different types of sensors collecting data. According the NASA, there are three types of orbits: low-Earth orbit, polar orbit, and geostationary orbit (What is Remote Sensing?). Low-Earth orbit is as it sounds; a satellite orbits the earth less than 2,000 km from the ground. This orbit only covers part of the world with a range between certain latitudes. Geostationary orbit is a unique orbit because the speed of the orbiting object is the same speed that the Earth rotates. This means that satellites in this orbit will remain over the same area of the Earth as they continue orbiting. The final orbital path is the polar orbit. Satellites traveling in this orbit move perpendicular to the equator and fly over the poles. This orbit can cover the entire planet. The satellite used by scientists to study penguin populations were taken by Sentinel 2, a satellite in a sun-synchronous polar orbit (European Space Agency). Sentinel 2 can not only cover the entire planet, but also do so when the sun is shining for optimal imagery. 
 
-These satellites gather data through different sensors that can either detect the reflection of the sun’s energy on the Earth or the satellites own source of energy reflected on the Earth (What is Remote Sensing?). These are called passive and active sensors respectively. Passive sensors use radiometers and spectrometers to measure certain parts of the electromagnetic spectrum to measure things such as temperature or properties of the air and clouds. Active sensors use radar sensor, scatterometers, and altimeters. These satellites sense using microwave radiation and can therefore view past cloud cover. These sensors can measure topography and weather conditions. With the coupling of a specific orbit and sensor type, satellites can excel at detecting specific types of data. These data then go on to be part of our data rich world.
+These satellites gather data through different sensors that can either detect the reflection of the sun’s energy on the Earth or the satellites own source of energy reflected on the Earth (What is Remote Sensing?). These are called passive and active sensors respectively. Passive sensors use radiometers and spectrometers to measure certain parts of the electromagnetic spectrum to measure things such as temperature or properties of the air and clouds. Active sensors use radar sensor, scatterometers, and altimeters. These satellites sense using microwave radiation and can therefore view past cloud cover. These sensors can measure topography and weather conditions. With the coupling of a specific orbit and sensor type, satellites can excel at detecting specific types of data. These data then go on to be part of our data rich world.  
 
-
-
-
-
-
-
+<p>&nbsp;</p>
 
 References
 
