@@ -58,6 +58,13 @@ This last figure depicts the urban centers of Kombo South and Kombo Central in g
 
 In the end, the urbanized plot contained 13 different urban areas ranging from a density of 464 persons per square km to 1584 persons per square km. The range for the areas of each urban center was large with the minimum being 0.0308 and the highest value being 97.5861. The pop also exhibited a large range of 27 to 154368. 
 
+Below is an analysis of whether the population densities follow Zip's Law.
+![zips law](https://user-images.githubusercontent.com/67921793/93415595-e24e5a00-f871-11ea-8e34-dd7d8dd98a05.png)
+
+The graph illustrates a deviation from Zip's law, as the log of the densities are not in line with the expected densities. 
+The data show a shallower trend than the steeper expected values, meaning that these urban centers are more densly populated
+than expected.
+
 
 ## Project 1 pt 2 - Roads and Health Centers
 This part of the project consisted of graphing the primary and secondary roads of the selected districts as well as the different health cetners. Below is my final output.
