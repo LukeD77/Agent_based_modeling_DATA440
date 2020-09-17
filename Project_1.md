@@ -56,6 +56,9 @@ At this point I started to run into issues with the mapping of the final deliver
 
 This last figure depicts the urban centers of Kombo South and Kombo Central in green and non-urban areas in red. Sorry if you are red/green colorblind. I also included dots representing certain population sizes with colors corrosponding to the popualation densities. The urban centers were hard to tease out with numerous filtering iterations to isolate the main urban centers versus the entire districts. 
 
+In the end, the urbanized plot contained 13 different urban areas ranging from a density of 464 persons per square km to 1584 persons per square km. The range for the areas of each urban center was large with the minimum being 0.0308 and the highest value being 97.5861. The pop also exhibited a large range of 27 to 154368. 
+
+
 ## Project 1 pt 2 - Roads and Health Centers
 This part of the project consisted of graphing the primary and secondary roads of the selected districts as well as the different health cetners. Below is my final output.
 
