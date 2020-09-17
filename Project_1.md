@@ -69,9 +69,11 @@ than expected.
 ## Project 1 pt 2 - Roads and Health Centers
 This part of the project consisted of graphing the primary and secondary roads of the selected districts as well as the different health cetners. Below is my final output.
 
-![Kombo South & Kombo Central Urban Overlay with Roads and Health Centers](https://user-images.githubusercontent.com/67921793/93040192-622cb800-f617-11ea-9ad3-276baf94eeae.png)
+![Kombo South & Kombo Central Urban Overlay with Roads and Health Centers](https://user-images.githubusercontent.com/67921793/93415949-abc50f00-f872-11ea-8659-9b2ec31ece84.png)
 
-The primary roads are marked in red and the secondary roads are marked in pink. The primary roads lead into the populous of Kombo Central, while the secondary roads are used for traversing through the populated areas of Kombo South. I decided to make the points denoting health centers descriptive of their type. H stands for hospital, C stands for clinic, and O stands for other. The health centers are quite dispersed, but are located in densly populated areas and alongside roads. 
+The primary roads are marked in red and the secondary roads are marked in pink. The primary roads lead into the populous of Kombo Central, while the secondary roads are used for traversing through the populated areas of Kombo South. I decided to make the points denoting health centers descriptive of their type. H stands for hospital, C stands for clinic, and O stands for other. The health centers are quite dispersed, but are located in densly populated areas and alongside roads. The three health centers marked as other were all pharmacies, which is odd because according to the depicition of just these two counties, the most densly populated area (center of Kombo Central) does not have either a clinic or a hospital. A person living in Kombo Central would need to take one primary road in order to reach a singular secondary road that leads to the closest hospital, which is in the southern most part of Kombo South. There are also no dentist offices in either of these counties. This could lead to inadequate dental care within the regions. 
+
+It is interesting that there is nearly no primary roads in the Kombo South district. A next step would be to include more districts in this graph and see where the roads continue to go, especially once they read the Gambia River. There may be free roads over the river, so urban development near those areas would be important to examine.
 
 
 ## Project 1 pt 3 - Topography
