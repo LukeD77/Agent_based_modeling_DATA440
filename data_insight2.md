@@ -1,0 +1,15 @@
+# The Numbers Mason, What Do They Mean?
+
+With the exponential increase in data storage capacity, data can be collected in sizes of terabytes. Every day, people’s behavior and choices give off data, which can be collected and analyzed for patterns. This has led to the creation of a new method of data science: data mining. According to Britannica, data mining is the method for identifying patterns and relationships in a massive amount of data (Clifton, 2019). Shopping information, internet traffic, and data are all up for grabs. 
+
+Until the 1980s, large companies were not storing data on their dealings (Clifton, 2019). Once this trove of data was collected, it had to be analyzed. In 1995, the First International Conference on Knowledge Discovery and Data Mining was convened, and a journal dedicated to data mining was established in 1997. Just 3 years before I was born. Besides surveillance capitalism and marketing, data mining is used to a large extent in spotting credit card fraud. Data is collected and an analysis determines the pattern of purchasing behavior for the consumer. If there is a transaction that is not within this pattern, it is flagged and further examined. This is an example of descriptive modeling, which is one of many types of data mining.
+
+There are many types of data mining and each answers a certain type of question using certain types of analysis on data. First, there is descriptive modeling. This technique consists of the algorithm determining its own groupings of the data based upon any patterns it sees. Using the example case above, the model will fit consumers into groups of people that have similar purchasing patterns to determine overall behaviors. Grouping purchasing behavior also increases the accuracy of the model since more outliers in purchasing behavior is accounted for.
+
+A second type of data mining is predictive modeling. Using this method, a model is generated off a training data set that has been selected into distinct groupings. The model will learn what defines these groups and use these attributes to predict the grouping of a new piece of data that it is given. A third type of data mining is pattern mining. A concise example of this method is the section for online stores “frequently bought together.” This technique identifies patterns in the data and is used frequently in marketing. A fourth and final type is anomaly detection. This is almost the opposite of descriptive modeling as it finds outliers in the data. These models are also used in fraud detection, as the purchases flagged are due to anomalous behavior of the consumer. One of the many powers of data mining.
+
+A relatively new technique, data mining can be employed in a variety of ways to answer a variety of questions. From its start in 1997, data mining has branched out into numerous methodologies from predictive and descriptive modeling to pattern mining and anomaly detection. As the size of our datasets continues to grow, so to will the power of data mining.
+
+References 
+
+Clifton, C. (2019, December 20). Data mining. Retrieved October 14, 2020, from https://www.britannica.com/technology/data-mining
