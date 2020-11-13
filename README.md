@@ -13,3 +13,7 @@
 [Project_2](https://luked77.github.io/Agent_based_modeling_DATA440/Project_2)
 
 [Data Insight 2](https://luked77.github.io/Agent_based_modeling_DATA440/data_insight2)
+
+[Data Insight 3](https://luked77.github.io/Agent_based_modeling_DATA440/data_insight3)
+
+[Final Data Insight](https://luked77.github.io/Agent_based_modeling_DATA440/final_data_insight)
